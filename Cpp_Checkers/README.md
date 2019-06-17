@@ -1,7 +1,7 @@
 Cpp_Console_Checkers_Game
 =========================
 
-ryanjbcom, C++, Game of Checkers (CONSOLE/CMD Style) xp/vista/7/8/8.1
+ryanjbcom, C++, Game of Checkers (CONSOLE/CMD Style) xp/vista/7/8/8.1/10 = ALL
 
 Original Code and Screen Shots posted @ orig gone
 
