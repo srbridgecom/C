@@ -11,7 +11,7 @@ On Wednesday, 23 October 2011
 Ryan J. Bridglal,  
 
 
-Original Code created, Developed and submitted on: 04/16/2011
+Original Code created, Developed and submitted on: 2011
 
 use random number generation						                      = COMPLETE
 
